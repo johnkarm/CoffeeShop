@@ -5,6 +5,6 @@ After being fortunate enought to win be a part of the Grow With Google Scholarsh
 
 Here are some images of how the app works:
 
-![alt text](https://github.com/johnkarm/CoffeeShop/blob/master/JustJava.jpg) 
-![alt text](https://github.com/johnkarm/CoffeeShop/blob/master/JustJava2.jpg)
-![alt text](https://github.com/johnkarm/CoffeeShop/blob/master/JustJava3.jpg)
+![alt text](https://github.com/johnkarm/CoffeeShop/blob/master/justjava.jpg) 
+![alt text](https://github.com/johnkarm/CoffeeShop/blob/master/ustjava2.jpg)
+![alt text](https://github.com/johnkarm/CoffeeShop/blob/master/rsz_justjava3.jpg)
